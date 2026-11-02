@@ -22,6 +22,9 @@
 /storage/*.key
 /storage/pail
 /database/migrations
+/app/Models/Booking.php
+/app/Http/Controllers/Admin/BookingController.php
+/app/Http/Controllers/Frontend/Booking/BookingController.php
 /vendor
 Homestead.json
 Homestead.yaml
